@@ -25,18 +25,18 @@
 - Click the branch name in the bottom-left corner to switch between branches.
 
 ## Section 4: Definitions
-- Git: A version control system that tracks changes to files and allows multiple people to collaborate on the same project.
-- GitHub: A cloud-based platform that stores Git repositories and allows users to share code, collaborate, and manage projects online.
 - Branch: A divergence in code from a starting point, allowing independent changes and commits without altering the main codebase.
 - Clone: To copy an existing repository from GitHub to your local machine.
 - Commit: A saved record of changes made to files in a branch.
 - Fetch: Downloads updates from a remote repository without applying them to your local files.
+- Git: A version control system that tracks changes to files and allows multiple people to collaborate on the same project.
+- GitHub: A cloud-based platform that stores Git repositories and allows users to share code, collaborate, and manage projects online.
 - Merge: Combines the changes from one branch into another branch.
 - Merge Conflict: Occurs when two branches change the same part of a file differently and Git cannot decide which change to keep. The conflict must be resolved manually.
 - Push: Uploads local commits to the remote repository on GitHub.
-Pull: Downloads and applies changes from the remote repository to your local repository.
+- Pull: Downloads and applies changes from the remote repository to your local repository.
 - Remote: A version of the repository hosted on another server (usually GitHub).
-Repository: A project folder that contains files, code, and the history of changes tracked by Git.
+- Repository: A project folder that contains files, code, and the history of changes tracked by Git.
 
 ## Section 5: Sources
 - https://code.visualstudio.com/docs/sourcecontrol/github
